@@ -13,9 +13,9 @@ This project is a plan for my unstructured study/project day. I will lay out my 
   * Thorough review of Epicodus curriculum from the last two weeks. Focus on personal sticky points: Webpack configuration, component lifecycle methods, lifting state, and unit testing.
 
   * Watch and study React and React-Reduct video series on [Egghead.io](https://egghead.io/technologies/react).
-   * Start Learning React - Joe Maddalone
-   * Getting Started with Redux - Dan Abramov
-   * Building React Applications with Idiomatic Redux - Dan Abramov
+    * Start Learning React - Joe Maddalone
+    * Getting Started with Redux - Dan Abramov
+    * Building React Applications with Idiomatic Redux - Dan Abramov
 
 
   * Refactor project from last Friday to bring into line with the current week curriculum, and possibly some new tricks from the Egghead.io courses.
